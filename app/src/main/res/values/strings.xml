@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VoiceText</string>
+    <string name="say">Ваша запись!</string>
+    <string name="voice">Запись голосом</string>
+</resources>
